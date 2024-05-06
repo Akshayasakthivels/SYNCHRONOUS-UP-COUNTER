@@ -56,6 +56,8 @@ Developed by: Akshaya S  RegisterNumber:  212223220006
 ![image](https://github.com/Akshayasakthivels/SYNCHRONOUS-UP-COUNTER/assets/144870561/fa22c11d-980b-42d1-b196-eee5caab642f)
 
 **TRUTH TABLE**
+
+
 ![image](https://github.com/Akshayasakthivels/SYNCHRONOUS-UP-COUNTER/assets/144870561/58988768-b855-4942-bb76-d9475aa9c8b4)
 
 **RESULTS**
